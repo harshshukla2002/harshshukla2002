@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 <h3 align="center">A Full Stack Web Developer with more than 2000 hours of building, maintaining and deploying single page/eCommerce applications and specialized in Node, React and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshukla2002&label=Profile%20views&color=0e75b6&style=flat" alt="harshshukla2002" /> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **MERN Stack**
