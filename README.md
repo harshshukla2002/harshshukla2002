@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
-<h3 align="center">A Full Stack Web Developer with more than 2000 hours of building, maintaining and deploying single page/eCommerce applications and specialized in Node, React and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
+<h3 align="center">A Full Stack Web Developer with more than 2000 hours of building, maintaining and deploying single page/eCommerce applications and specialized in Node, React, Express and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
