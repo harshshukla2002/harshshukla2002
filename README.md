@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://harshshukla2002.github.io/)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **harshshukla2312@gmail.com**
+
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://harshshukla2002.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
