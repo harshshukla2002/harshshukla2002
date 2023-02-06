@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me [**harshshukla2312@gmail.com**](mailto:harshshukla2312@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me **harshshukla2312@gmail.com**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://harshshukla2002.github.io/)
 
