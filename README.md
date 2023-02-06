@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me <b>harshshukla2312@gmail.com</b>
+- 📫 How to reach me **harshshukla2312@gmail.com
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://harshshukla2002.github.io/)
 
