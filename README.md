@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
+<img src='https://i.postimg.cc/vBjLP79f/Hello-my-name-is-Harsh-Shukla-Nice-to-meet-you.png' />
+
 <h3 align="center">A Full Stack Web Developer with more than 2000 hours of building, maintaining and deploying single page/eCommerce applications and specialized in Node, React and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
