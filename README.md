@@ -1,4 +1,4 @@
-<img src='https://i.postimg.cc/vBjLP79f/Hello-my-name-is-Harsh-Shukla-Nice-to-meet-you.png' />
+<img src='https://i.postimg.cc/MHfcDyzV/Black-Modern-Personal-Linked-In-Banner.gif' />
 
 <h3 align="center">A Full Stack Web Developer with more than 2000 hours of building, maintaining and deploying single page/eCommerce applications and specialized in Node, React and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
