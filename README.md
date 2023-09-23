@@ -1,10 +1,6 @@
 <img src='https://i.postimg.cc/MHfcDyzV/Black-Modern-Personal-Linked-In-Banner.gif' />
 
-<h3 align="center">A full-stack web developer with more than 2000 hours of
-                building, maintaining, and deploying single-page/e-commerce
-                applications and specialized in Node, React, Express, and
-                mongoDB. A passionate, diligent person who wants to learn
-                continuously.</h3>
+<h3 align="center">A full-stack web developer with more than 2000 hours of building, maintaining, and deploying single-page/e-commerce applications and specialized in Node, React, Express, and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
