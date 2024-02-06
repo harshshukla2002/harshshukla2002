@@ -47,9 +47,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
-   <img width="12" />
+  <img width="12" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/> 
+  <img width="12" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/> 
+  <img width="12" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/> 
+  <img width="12" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/> 
+  <img width="12" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30"/> 
 </div>
 
