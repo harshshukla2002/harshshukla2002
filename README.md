@@ -51,6 +51,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
   <img width="12" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30" style={{margin:"10px"}}/> 
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" alt="reactnative" height="30" style={{margin:"20px"}}/> 
 </div>
 
 ###
