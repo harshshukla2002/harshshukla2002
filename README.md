@@ -2,8 +2,6 @@
 
 <h3 align="center">A full-stack web developer with more than 2000 hours of building, maintaining, and deploying single-page/e-commerce applications and specialized in Node, React, Express, and mongoDB. A passionate, diligent person who wants to learn continuously.</h3>
 
-- 🌱 I’m currently **SDE Intern** at Masai
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **harshshukla2312@gmail**
