@@ -1,6 +1,6 @@
 <img src='https://i.postimg.cc/MHfcDyzV/Black-Modern-Personal-Linked-In-Banner.gif' />
 
-<h3 align="center">A skilled Full Stack Developer with 10 months of experience in React.js, React Native, Node.js, and MongoDB. Proficient in building responsive UIs, scalable APIs, and cross-platform applications. Dedicated to delivering innovative, user-centric solutions for impactful projects.</h3>
+<h3 align="center">A skilled Full Stack Developer with 2 years of experience in React.js, React Native, Node.js, and MongoDB. Proficient in building responsive UIs, scalable APIs, and cross-platform applications. Dedicated to delivering innovative, user-centric solutions for impactful projects.</h3>
 
 - 💬 Ask me about **MERN Stack**
 
