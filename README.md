@@ -43,7 +43,7 @@ React Native & MERN Stack Developer with 2+ years of experience building scalabl
 ### 🌐 Portfolio
 
 👨‍💻 Check out my projects:  
-👉 https://harshshukla2002.github.io/
+👉 https://harshshukla2002in.vercel.app/
 
 ---
 
