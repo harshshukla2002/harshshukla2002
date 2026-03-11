@@ -1,4 +1,6 @@
-<img src="https://i.postimg.cc/MHfcDyzV/Black-Modern-Personal-Linked-In-Banner.gif" />
+<p align="center">
+  <img src="Yellow Black and White Illustrated Web Developer Business Card.gif"  />
+</p>
 
 <h2 align="center">Hi 👋 I'm Harsh Shukla</h2>
 
